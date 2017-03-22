@@ -1,1 +1,4 @@
-sample test app
+```
+npm install
+npm run webpack-server
+```
